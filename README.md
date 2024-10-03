@@ -69,7 +69,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :writing_hand: Blog Posts :
+### :writing_hand: My notes and interesting posts :
+
+1. [Заметка про React](./posts/react-note.md)
+2. [Как работать с Git](./posts/git-guide.md)
+3. [Лучшие практики программирования](./posts/best-practices.md)
 
 <!-- BLOG-POST-LIST:START -->
 
