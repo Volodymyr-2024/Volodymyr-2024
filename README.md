@@ -71,9 +71,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :writing_hand: My notes and interesting posts :
 
-1. [Заметка про React](https://reactjs.org/docs/getting-started.html)
-2. [Как работать с Git](https://git-scm.com/book/en/v2)
-3. [Лучшие практики программирования](https://12factor.net/)
+1. [A note about React](https://reactjs.org/docs/getting-started.html)
+2. [How to work with Git](https://git-scm.com/book/en/v2)
+3. [Best Programming Practices](https://12factor.net/)
 
 <!-- BLOG-POST-LIST:START -->
 
