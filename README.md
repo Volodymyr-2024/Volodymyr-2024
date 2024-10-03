@@ -24,7 +24,8 @@
 </div>
 
 ---
- :man_technologist: About Me :
+
+### :man_technologist: About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 
@@ -63,6 +64,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Volodymyr-2024&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Volodymyr-2024&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
 <!--
 **Volodymyr-2024/Volodymyr-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
