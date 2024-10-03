@@ -70,6 +70,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 <!--
 **Volodymyr-2024/Volodymyr-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
